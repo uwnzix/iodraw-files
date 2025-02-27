@@ -28,11 +28,11 @@
         <mxCell id="uIcu8oLZXX9fEveRMCrq-12" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="360" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uIcu8oLZXX9fEveRMCrq-13" value="继电器关闭" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-13" value="继电器关闭？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="288.5" y="420" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-14" value="系统休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="308.5" y="565" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
