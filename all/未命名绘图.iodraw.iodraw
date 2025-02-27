@@ -8,13 +8,18 @@
           <mxGeometry x="354" y="40" width="106" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-2" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="320" width="110" height="30" as="geometry" />
+          <mxGeometry x="354" y="110" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-4" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="190" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="状态异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="140" height="50" as="geometry" />
