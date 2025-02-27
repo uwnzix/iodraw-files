@@ -49,8 +49,11 @@
         <mxCell id="prRtRGSoC0-pcUQ38MG4-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.503;entryY=-0.105;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="prRtRGSoC0-pcUQ38MG4-5" target="prRtRGSoC0-pcUQ38MG4-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="prRtRGSoC0-pcUQ38MG4-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-18" value="偶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="160" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-19" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="485" y="158" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
