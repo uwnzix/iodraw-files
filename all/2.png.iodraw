@@ -26,7 +26,7 @@
           <mxGeometry x="306.5" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-12" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="200" width="140" height="60" as="geometry" />
+          <mxGeometry x="540" y="260" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-13" value="继电器关闭？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="310.5" y="500" width="140" height="60" as="geometry" />
