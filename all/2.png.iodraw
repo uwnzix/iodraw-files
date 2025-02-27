@@ -83,8 +83,11 @@
         <mxCell id="uIcu8oLZXX9fEveRMCrq-14" value="系统休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="318.75" y="585" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIcu8oLZXX9fEveRMCrq-46" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="425" y="568" width="50" height="30" as="geometry" />
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-46" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="397.5" y="555" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-47" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="407.5" y="565" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
