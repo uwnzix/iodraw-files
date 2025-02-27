@@ -19,7 +19,7 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="状态异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="80" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-7" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-7" value="继电器关闭？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
