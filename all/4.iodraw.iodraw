@@ -40,7 +40,7 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-6" target="fnBdqrc8pb6xelo7KCF5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="状态异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="温度异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="290" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-7" target="fnBdqrc8pb6xelo7KCF5-3">
