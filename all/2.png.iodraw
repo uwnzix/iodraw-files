@@ -13,7 +13,7 @@
         <mxCell id="uIcu8oLZXX9fEveRMCrq-6" value="&lt;font face=&quot;宋体&quot;&gt;状态检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="307" y="150" width="123" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uIcu8oLZXX9fEveRMCrq-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-8" value="状态显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
