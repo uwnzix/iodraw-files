@@ -16,10 +16,10 @@
         <mxCell id="prRtRGSoC0-pcUQ38MG4-5" value="导通三极管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="300" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="prRtRGSoC0-pcUQ38MG4-6" value="导通三极管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-6" value="控制灯灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="prRtRGSoC0-pcUQ38MG4-7" value="导通三极管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-7" value="继电器断开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-8" value="断开三极管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
