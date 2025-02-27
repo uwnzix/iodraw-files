@@ -10,8 +10,8 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-2" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="100" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="120" height="40" as="geometry" />
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-3" value="系统休眠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="580" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-4" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="290" width="140" height="50" as="geometry" />
