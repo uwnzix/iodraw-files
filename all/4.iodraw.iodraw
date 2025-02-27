@@ -20,22 +20,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="温度异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="313" y="350" width="140" height="50" as="geometry" />
+          <mxGeometry x="313" y="420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-8" value="结束屏幕更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="430" width="110" height="30" as="geometry" />
+          <mxGeometry x="328" y="500" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-9" target="fnBdqrc8pb6xelo7KCF5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-9" value="写入坐标像素值Y" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="290" width="110" height="30" as="geometry" />
+          <mxGeometry x="328" y="360" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-10" target="fnBdqrc8pb6xelo7KCF5-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-10" value="设置X、Y坐标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="328" y="230" width="110" height="30" as="geometry" />
+          <mxGeometry x="328" y="300" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-11" value="全像素激活" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="160" width="110" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="700" y="270" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-41" value="更新显示内容" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="515" y="180" width="140" height="50" as="geometry" />
+          <mxGeometry x="313" y="220" width="140" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
