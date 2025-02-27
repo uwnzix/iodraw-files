@@ -8,10 +8,10 @@
           <mxGeometry x="320" y="10" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-2" value="&lt;font face=&quot;Helvetica&quot;&gt;系统初始化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="80" width="117" height="30" as="geometry" />
+          <mxGeometry x="311.5" y="80" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-6" value="&lt;font face=&quot;Helvetica&quot;&gt;状态检测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="307" y="150" width="123" height="30" as="geometry" />
+          <mxGeometry x="308.5" y="140" width="123" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-8" value="状态显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="290" width="154" height="40" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="414" y="480" width="154" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-11" value="状态异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="50" y="200" width="140" height="60" as="geometry" />
+          <mxGeometry x="300" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-12" value="定时终止？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="360" width="140" height="60" as="geometry" />
