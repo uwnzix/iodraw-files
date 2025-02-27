@@ -36,7 +36,7 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="350" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-11" value="状态检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="360" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
