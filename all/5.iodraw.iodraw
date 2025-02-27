@@ -27,7 +27,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="纵坐标Y=0？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-6" value="设备连接是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="420" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-8" value="结束屏幕更新" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
