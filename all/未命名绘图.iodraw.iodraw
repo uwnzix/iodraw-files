@@ -25,8 +25,8 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="330" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fnBdqrc8pb6xelo7KCF5-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="340" width="110" height="30" as="geometry" />
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-9" value="声光报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="420" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-10" value="状态显示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="328" y="230" width="110" height="30" as="geometry" />
