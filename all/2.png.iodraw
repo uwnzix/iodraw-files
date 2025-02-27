@@ -17,7 +17,7 @@
           <mxGeometry x="318" y="200" width="121.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-9" value="声光报警" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="309" y="390" width="150" height="30" as="geometry" />
+          <mxGeometry x="304.5" y="360" width="148.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-10" value="切换继电器开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="309" y="460" width="152" height="30" as="geometry" />
