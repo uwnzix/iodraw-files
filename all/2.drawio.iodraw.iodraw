@@ -13,8 +13,14 @@
         <mxCell id="prRtRGSoC0-pcUQ38MG4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prRtRGSoC0-pcUQ38MG4-2" target="prRtRGSoC0-pcUQ38MG4-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prRtRGSoC0-pcUQ38MG4-2" target="prRtRGSoC0-pcUQ38MG4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-2" value="判断n是否奇偶" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="160" width="155" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prRtRGSoC0-pcUQ38MG4-3" target="prRtRGSoC0-pcUQ38MG4-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-3" value="导通三极管" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="240" width="110" height="30" as="geometry" />
@@ -24,6 +30,9 @@
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-6" value="控制灯灭" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="prRtRGSoC0-pcUQ38MG4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="prRtRGSoC0-pcUQ38MG4-7" target="prRtRGSoC0-pcUQ38MG4-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-7" value="继电器断开" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="300" width="110" height="30" as="geometry" />
