@@ -7,7 +7,7 @@
         <mxCell id="uIcu8oLZXX9fEveRMCrq-0" value="开始" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="10" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIcu8oLZXX9fEveRMCrq-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-2" value="系统初始化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="80" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
