@@ -34,6 +34,9 @@
         <mxCell id="fnBdqrc8pb6xelo7KCF5-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-7" target="fnBdqrc8pb6xelo7KCF5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fnBdqrc8pb6xelo7KCF5-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fnBdqrc8pb6xelo7KCF5-7" target="fnBdqrc8pb6xelo7KCF5-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fnBdqrc8pb6xelo7KCF5-7" value="继电器关闭？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="313" y="500" width="140" height="50" as="geometry" />
         </mxCell>
