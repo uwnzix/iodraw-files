@@ -22,7 +22,7 @@
         <mxCell id="uIcu8oLZXX9fEveRMCrq-10" value="切换继电器开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414" y="480" width="154" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uIcu8oLZXX9fEveRMCrq-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="uIcu8oLZXX9fEveRMCrq-11" value="状态异常？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="50" y="200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uIcu8oLZXX9fEveRMCrq-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
