@@ -8,10 +8,10 @@
           <mxGeometry x="330" y="100" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-2" value="判断n是否奇偶" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="314" y="200" width="200" height="80" as="geometry" />
+          <mxGeometry x="300" y="170" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="prRtRGSoC0-pcUQ38MG4-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="360" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
